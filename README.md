@@ -15,6 +15,6 @@ the program expects that the sequences within query file and ref file are all on
 this is how they are all structured within the folder, so they should all run properly.\
 Additionally, if you want to run nw_algorithm.py with init/terminal gaps not counted then the third parameter of 'dynamic_alignment(query,ref, InitPenalty)' should be set to False.\
 This is all explained within the program itself as well\
-the place to change this would be in main at the bottom of the program, where dynamic alignment is called.\
+the place to change this would be in main at the bottom of the program, where dynamic alignment is called.
 
-Originally, this paramter has been set to True so that init/terminal gap penalties ARE counted.\
+Originally, this paramter has been set to True so that init/terminal gap penalties ARE counted.
