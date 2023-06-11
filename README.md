@@ -18,3 +18,5 @@ This is all explained within the program itself as well\
 the place to change this would be in main at the bottom of the program, where dynamic alignment is called.
 
 Originally, this paramter has been set to True so that init/terminal gap penalties ARE counted.
+
+Example files have been provided as well as truncated versions which allow for a clearer picture of what is going on.
