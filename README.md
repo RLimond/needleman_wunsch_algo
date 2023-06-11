@@ -20,3 +20,4 @@ the place to change this would be in main at the bottom of the program, where dy
 Originally, this paramter has been set to True so that init/terminal gap penalties ARE counted.
 
 Example files have been provided as well as truncated versions which allow for a clearer picture of what is going on.
+There are additional .aa files which are aminona acid representations. These can be converted into codons for use with the nw_algorithm through the use of the convert_to_amino program.
